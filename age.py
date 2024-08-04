@@ -17,3 +17,5 @@ elif driving == '沒有':
 		print('很好，再過幾年你就可以考駕照了')
 else: 
 	print('只能輸入 有/沒有')
+
+practice
