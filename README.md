@@ -17,7 +17,7 @@
 
 # 以下為該專案啟動方法
 
-# 1.去下載conda
+# 1.去下載conda https://conda.io/projects/conda/en/latest/user-guide/getting-started.html
 
 1. conda create -n angrychat python=3.10 -y
 
